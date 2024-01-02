@@ -1,0 +1,795 @@
+genres,release_year,playtime_forever
+1980s,2015,23930
+1980s,No data,3951
+1990s,2011,172945
+1990s,2012,57473
+2D,2012,167402
+360Video,No data,510
+3DPlatformer,2011,172945
+3DPlatformer,No data,5956
+3DVision,No data,2692628
+4PlayerLocal,No data,122693
+6DOF,No data,29825
+Abstract,No data,690
+Action,1983,3473
+Action,1984,384
+Action,1988,16001
+Action,1989,607
+Action,1990,18335
+Action,1991,2502
+Action,1992,1925
+Action,1993,24623
+Action,1994,120177
+Action,1995,216144
+Action,1996,67844
+Action,1997,359836
+Action,1998,2899116
+Action,1999,2715157
+Action,2000,18373322
+Action,2001,1326310
+Action,2002,732102
+Action,2003,11893403
+Action,2004,129693956
+Action,2005,12264943
+Action,2006,10814626
+Action,2007,17530208
+Action,2008,33539669
+Action,2009,163513747
+Action,2010,180087364
+Action,2011,331795530
+Action,2012,1085700047
+Action,2013,415522341
+Action,2014,166934702
+Action,2015,261940978
+Action,2016,95803381
+Action,2017,126334352
+Action,2018,2224
+Action,No data,159311239
+Action-Adventure,2014,0
+Action-Adventure,2015,9499
+Action-Adventure,2016,0
+Action-Adventure,No data,786870
+ActionRPG,No data,7304
+Adventure,1983,3473
+Adventure,1984,384
+Adventure,1987,7712
+Adventure,1988,29963
+Adventure,1989,9311
+Adventure,1990,5492
+Adventure,1991,1722
+Adventure,1992,23795
+Adventure,1993,46772
+Adventure,1994,15890
+Adventure,1995,10026
+Adventure,1996,104199
+Adventure,1997,324405
+Adventure,1998,178831
+Adventure,1999,7735
+Adventure,2000,105121
+Adventure,2001,50619
+Adventure,2002,184447
+Adventure,2003,5189429
+Adventure,2004,96149
+Adventure,2005,206433
+Adventure,2006,245791
+Adventure,2007,399173
+Adventure,2008,3276314
+Adventure,2009,6768510
+Adventure,2010,24895944
+Adventure,2011,221804836
+Adventure,2012,73573682
+Adventure,2013,151011680
+Adventure,2014,70193376
+Adventure,2015,180604982
+Adventure,2016,62131411
+Adventure,2017,92832682
+Adventure,2018,21
+Adventure,No data,113831512
+Aliens,No data,1957625
+Animation&Modeling,2015,368
+Animation&Modeling,2016,1
+Animation&Modeling,No data,120908
+Animation&amp;Modeling,2008,2058
+Animation&amp;Modeling,2012,17914
+Animation&amp;Modeling,2013,434433
+Animation&amp;Modeling,2014,79513
+Animation&amp;Modeling,2015,1345545
+Animation&amp;Modeling,2016,114708
+Anime,2011,173245
+Anime,2012,57473
+Anime,2013,0
+Anime,2014,326
+Anime,2015,8906
+Anime,2016,2224
+Anime,No data,12075
+Arcade,No data,47024277
+ArenaShooter,No data,340
+ArtificialIntelligence,No data,2147427
+AsynchronousMultiplayer,No data,0
+Atmospheric,2006,41815
+Atmospheric,2016,195
+Atmospheric,No data,5245617
+AudioProduction,2007,11058
+AudioProduction,2013,73161
+AudioProduction,2014,455463
+AudioProduction,2015,5060
+AudioProduction,2016,459
+AudioProduction,No data,56781
+BaseBuilding,No data,1957314
+BasedOnANovel,2000,0
+BasedOnANovel,2006,41815
+Basketball,No data,656
+BoardGame,No data,1948370
+Building,No data,84897
+BulletHell,No data,264
+CardGame,No data,1948370
+Cartoon,2015,651
+Cartoon,No data,457
+Cartoony,No data,457
+Casual,1983,3473
+Casual,1984,384
+Casual,1991,1355
+Casual,1992,2492
+Casual,1993,22039
+Casual,1994,45975
+Casual,1995,3553
+Casual,1996,30585
+Casual,1997,32521
+Casual,1998,12958
+Casual,1999,632929
+Casual,2000,53118
+Casual,2001,6243
+Casual,2002,61612
+Casual,2003,3048
+Casual,2004,24217
+Casual,2005,40708
+Casual,2006,236277
+Casual,2007,729521
+Casual,2008,572072
+Casual,2009,936817
+Casual,2010,4776946
+Casual,2011,5981880
+Casual,2012,20362233
+Casual,2013,12912528
+Casual,2014,25172272
+Casual,2015,81717563
+Casual,2016,43799118
+Casual,2017,50922548
+Casual,No data,3823068
+Chess,No data,1948370
+ChoicesMatter,No data,29277
+Cinematic,No data,161
+Classic,1996,3368
+Classic,2000,15467
+Classic,2006,41815
+Classic,2011,172945
+Classic,2012,57473
+Classic,No data,1508
+Co-op,2015,2728
+Co-op,No data,145722306
+Colorful,2012,167402
+Colorful,No data,5185
+Comedy,2000,0
+Comedy,2010,264
+Comedy,2012,841
+Comedy,2013,1
+Comedy,2014,79
+Comedy,2015,29356
+Comedy,2016,0
+Comedy,No data,2005140
+ComicBook,2015,5702
+Competitive,2015,873
+Competitive,No data,29259
+Controller,2011,172945
+Controller,No data,3455000
+Crafting,No data,1977554
+Crime,2013,0
+Crime,2014,0
+Crime,2015,1497
+Crime,No data,98410720
+Cute,No data,15380
+Cyberpunk,2015,23930
+Cyberpunk,2016,3176
+Cyberpunk,No data,11072
+Dark,2006,41815
+Dark,2015,223
+Dark,No data,8028
+DarkComedy,2012,114
+DarkComedy,2015,34
+DarkFantasy,No data,103
+DarkHumor,No data,4507
+DatingSim,2000,0
+DatingSim,No data,18921
+Design&Illustration,2015,53
+Design&Illustration,2016,10
+Design&Illustration,No data,133720
+Design&amp;Illustration,2007,11058
+Design&amp;Illustration,2008,2058
+Design&amp;Illustration,2012,1930339
+Design&amp;Illustration,2013,292803
+Design&amp;Illustration,2014,192637
+Design&amp;Illustration,2015,1534013
+Design&amp;Illustration,2016,112605
+Design&amp;Illustration,2017,21
+Destruction,No data,190895
+Difficult,2006,41815
+Difficult,2016,3176
+Difficult,No data,6584920
+Dinosaurs,2015,23930
+Dinosaurs,No data,1034
+Documentary,2005,130
+Documentary,2011,46265
+Documentary,2013,3
+Documentary,2014,453823
+Documentary,2015,23878
+Documentary,2016,624
+Dragons,No data,36
+Drama,2008,1
+Drama,2011,0
+Drama,2013,0
+Drama,2014,249
+Drama,2015,10271
+Drama,2016,195
+Drama,No data,341
+Driving,No data,3709327
+DungeonCrawler,No data,115137
+DynamicNarration,2016,195
+DynamicNarration,No data,1867
+EarlyAccess,2012,3225527
+EarlyAccess,2013,118902893
+EarlyAccess,2014,11239202
+EarlyAccess,2015,13535672
+EarlyAccess,2016,9738438
+EarlyAccess,2017,34195
+EarlyAccess,2018,6127
+EarlyAccess,No data,2332274
+Education,2008,2058
+Education,2010,1158
+Education,2013,340567
+Education,2014,22532
+Education,2015,36083
+Education,2016,2324
+Education,2017,9382
+Education,No data,306772
+Episodic,2011,782
+Episodic,2013,109
+Episodic,2014,4275
+Episodic,2015,10392
+Episodic,2016,1743
+Episodic,No data,2933
+Experimental,No data,796
+Exploration,No data,8399822
+FMV,2016,195
+FMV,No data,23788
+FPS,2006,41815
+FPS,2015,7728
+FPS,No data,143861910
+FamilyFriendly,2000,0
+FamilyFriendly,2011,172945
+FamilyFriendly,2012,167402
+FamilyFriendly,2015,875
+FamilyFriendly,No data,796250
+Fantasy,2000,15467
+Fantasy,2010,264
+Fantasy,2014,89
+Fantasy,2015,3037
+Fantasy,No data,118007
+Fast-Paced,2011,172945
+Fast-Paced,2012,167402
+Fast-Paced,No data,1111216
+FeatureFilm,2015,2586
+FemaleProtagonist,2009,1354
+FemaleProtagonist,2011,172945
+FemaleProtagonist,2015,3270
+FemaleProtagonist,No data,894269
+Fighting,2011,782
+Fighting,2013,109
+Fighting,2015,23930
+First-Person,2006,41815
+First-Person,2015,6231
+First-Person,No data,110394832
+Fishing,No data,1400
+Flight,No data,43708761
+Football,2015,2089
+Football,2016,0
+Foreign,2015,0
+FreetoPlay,1996,127
+FreetoPlay,1999,627007
+FreetoPlay,2001,4965
+FreetoPlay,2003,5995099
+FreetoPlay,2005,66729
+FreetoPlay,2006,2561487
+FreetoPlay,2007,212490
+FreetoPlay,2008,215519
+FreetoPlay,2009,2022008
+FreetoPlay,2010,8595010
+FreetoPlay,2011,43092262
+FreetoPlay,2012,115267827
+FreetoPlay,2013,146213843
+FreetoPlay,2014,40654591
+FreetoPlay,2015,128668665
+FreetoPlay,2016,23296441
+FreetoPlay,2017,86235439
+FreetoPlay,No data,43369038
+Funny,2015,26969
+Funny,No data,98821475
+Futuristic,2015,0
+Futuristic,No data,13667
+GameDevelopment,2014,0
+GameDevelopment,2015,3588
+GameDevelopment,2016,199
+GameDevelopment,No data,120838
+GameMaker,2016,195
+GameMaker,No data,120838
+GamesWorkshop,2015,6231
+Gaming,2014,4275
+Gaming,2015,22678
+Gaming,2016,198
+GodGame,No data,183093
+Golf,No data,0
+Gore,2006,41815
+Gore,2015,26658
+Gore,No data,40
+GrandStrategy,No data,4572
+GreatSoundtrack,2011,172945
+GreatSoundtrack,2012,167402
+GreatSoundtrack,2015,23930
+GreatSoundtrack,2016,195
+GreatSoundtrack,No data,100047362
+Grid-BasedMovement,No data,79
+GunCustomization,No data,98425312
+HackandSlash,2016,3176
+HackandSlash,No data,0
+Hacking,2015,1065
+Hacking,No data,2835
+Hand-drawn,No data,12764
+Hardware,2015,0
+Heist,2015,1497
+Heist,No data,98405781
+HiddenObject,2009,1354
+HiddenObject,No data,7
+Historical,No data,43030349
+Horror,2000,0
+Horror,2006,41815
+Horror,2007,1
+Horror,2010,9
+Horror,2013,0
+Horror,2014,20
+Horror,2015,5307
+Horror,2016,0
+Horror,No data,2317946
+Horses,No data,154
+Illuminati,No data,30572
+Indie,1988,13962
+Indie,1995,3168
+Indie,1996,570
+Indie,1997,64285
+Indie,1998,19957
+Indie,1999,627007
+Indie,2000,5304
+Indie,2001,88452
+Indie,2002,37884
+Indie,2003,2127360
+Indie,2004,43179
+Indie,2005,336400
+Indie,2006,446115272
+Indie,2007,1340117
+Indie,2008,5255612
+Indie,2009,3489585
+Indie,2010,8533237
+Indie,2011,225297547
+Indie,2012,123173703
+Indie,2013,177347760
+Indie,2014,92162069
+Indie,2015,173597996
+Indie,2016,89575576
+Indie,2017,125594175
+Indie,2018,2326
+Indie,No data,8830280
+InteractiveFiction,No data,0
+JRPG,No data,982
+Kickstarter,2015,23932
+Kickstarter,No data,475190
+LaraCroft,No data,786857
+LevelEditor,No data,24288
+Linear,2015,223
+Linear,2016,195
+LocalCo-Op,No data,332464
+LocalMultiplayer,2015,0
+LocalMultiplayer,No data,2296571
+Lovecraftian,2006,41815
+Lovecraftian,No data,680
+MOBA,2015,873
+Magic,2000,15467
+Magic,No data,3681
+Management,No data,6007
+Mars,No data,30
+MartialArts,2015,23930
+MassivelyMultiplayer,2003,5995099
+MassivelyMultiplayer,2007,117715
+MassivelyMultiplayer,2008,104087
+MassivelyMultiplayer,2009,2022008
+MassivelyMultiplayer,2010,7444500
+MassivelyMultiplayer,2011,43054516
+MassivelyMultiplayer,2012,84773626
+MassivelyMultiplayer,2013,133376503
+MassivelyMultiplayer,2014,38063652
+MassivelyMultiplayer,2015,40514738
+MassivelyMultiplayer,2016,22077987
+MassivelyMultiplayer,2017,63505161
+MassivelyMultiplayer,No data,48545286
+Mature,2015,223
+Mature,No data,9373
+Memes,2000,0
+Memes,2011,172945
+Memes,2013,0
+Memes,2015,26967
+Memes,No data,153758
+Military,No data,43242799
+MiniGolf,No data,2548
+Minimalist,No data,358002
+Moddable,No data,4096361
+Movie,2000,0
+Movie,2010,264
+Movie,2011,300
+Movie,2012,727
+Movie,2013,0
+Movie,2014,556
+Movie,2015,8689
+Movie,2016,693
+Movie,No data,151
+Multiplayer,2000,15467
+Multiplayer,2015,11329
+Multiplayer,No data,153247055
+MultipleEndings,No data,5176
+Music,No data,27439
+Music-BasedProceduralGeneration,No data,21343
+Mystery,2014,0
+Mystery,2015,34
+Mystery,No data,63175
+Narration,2016,195
+Narration,No data,4507
+Naval,No data,5136
+Noir,No data,4507
+Nonlinear,No data,23788
+Nudity,2000,0
+Nudity,2013,0
+Nudity,2014,19
+Nudity,No data,48
+Offroad,No data,542633
+On-RailsShooter,No data,552
+OnlineCo-Op,2015,6231
+OnlineCo-Op,No data,105715695
+OpenWorld,2011,172945
+OpenWorld,2015,23930
+OpenWorld,No data,55337115
+Parkour,No data,800792
+Parody,2015,23930
+PermaDeath,No data,475341
+Philisophical,No data,221
+PhotoEditing,2006,173
+PhotoEditing,2007,11058
+PhotoEditing,2012,2678
+PhotoEditing,2014,61659
+PhotoEditing,2015,670
+PhotoEditing,2016,38264
+PhotoEditing,No data,0
+Physics,2015,6231
+Physics,No data,5306617
+Pinball,No data,1334
+Pirates,No data,80674
+PixelGraphics,2012,57473
+PixelGraphics,2015,6231
+PixelGraphics,No data,106374
+Platformer,1996,3368
+Platformer,2011,172945
+Platformer,2012,167402
+Platformer,No data,33137
+Point&Click,No data,25135
+Political,2016,7
+Political,No data,20
+Politics,2016,7
+Politics,No data,20
+Pool,No data,3734
+Post-apocalyptic,2015,231
+ProceduralGeneration,No data,210833
+Programming,No data,2835
+Psychedelic,No data,1734
+PsychologicalHorror,2000,0
+PsychologicalHorror,No data,322261
+Puzzle,2009,1354
+Puzzle,No data,1075857
+Puzzle-Platformer,No data,5956
+PvE,No data,98405781
+Quick-TimeEvents,No data,786857
+RPG,1988,13962
+RPG,1991,0
+RPG,1992,2164
+RPG,1994,2092
+RPG,1996,25354
+RPG,1997,359624
+RPG,1998,378188
+RPG,1999,331133
+RPG,2000,68707
+RPG,2001,120226
+RPG,2002,1783174
+RPG,2003,9030839
+RPG,2004,72098
+RPG,2005,3145877
+RPG,2006,1838437
+RPG,2007,9463324
+RPG,2008,10326511
+RPG,2009,25630479
+RPG,2010,91569545
+RPG,2011,227883593
+RPG,2012,163452607
+RPG,2013,125103114
+RPG,2014,81853101
+RPG,2015,151567836
+RPG,2016,56059795
+RPG,2017,67535068
+RPG,2018,3822
+RPG,No data,8363289
+RTS,2000,15467
+Racing,1994,289
+Racing,1995,31004
+Racing,1996,1202
+Racing,1997,9319
+Racing,1998,15130
+Racing,1999,32
+Racing,2000,3015
+Racing,2003,30957
+Racing,2004,3477
+Racing,2005,215392
+Racing,2006,426125
+Racing,2007,583348
+Racing,2008,2410743
+Racing,2009,2397456
+Racing,2010,2041063
+Racing,2011,2526828
+Racing,2012,995589
+Racing,2013,4724202
+Racing,2014,5536892
+Racing,2015,37467365
+Racing,2016,3616311
+Racing,2017,116167
+Racing,No data,4142779
+Real-Time,2000,15467
+Real-Time,No data,351
+Realistic,No data,47254297
+Relaxing,No data,1954020
+Remake,2012,57473
+ReplayValue,2011,172945
+ReplayValue,No data,2161763
+Retro,2011,172945
+Retro,2012,57473
+Retro,2015,24299
+Retro,No data,9562
+Rhythm,No data,21813
+Robots,No data,47329
+Rogue-like,2016,3176
+Rogue-like,No data,285308
+Rogue-lite,2016,3176
+Rogue-lite,No data,146620
+Romance,2014,61
+Romance,2015,1283
+Runner,No data,361627
+Sailing,No data,150
+Sandbox,No data,10007153
+Satire,No data,4507
+Sci-fi,2014,89
+Sci-fi,2015,29322
+Sci-fi,2016,0
+Sci-fi,No data,8072604
+Science,No data,186792
+ScoreAttack,No data,7
+SexualContent,No data,5848
+ShootEmUp,No data,271
+Shooter,2006,41815
+Shooter,2015,10456
+Shooter,No data,142510634
+Short,2007,1
+Short,2008,1
+Short,2010,9
+Short,2011,0
+Short,2012,114
+Short,2013,0
+Short,2014,19
+Short,2015,27650
+Short,2016,10
+Short,No data,2870
+SideScroller,2012,57473
+Simulation,1987,235
+Simulation,1988,1
+Simulation,1989,5084
+Simulation,1990,1926
+Simulation,1991,144
+Simulation,1992,11
+Simulation,1993,65
+Simulation,1994,9351
+Simulation,1995,980
+Simulation,1996,1918
+Simulation,1997,4979
+Simulation,1998,107137
+Simulation,1999,129301
+Simulation,2000,69431
+Simulation,2001,247908
+Simulation,2002,353361
+Simulation,2003,1358139
+Simulation,2004,135928
+Simulation,2005,175020
+Simulation,2006,444536391
+Simulation,2007,1404881
+Simulation,2008,4689182
+Simulation,2009,16287403
+Simulation,2010,41737093
+Simulation,2011,16347108
+Simulation,2012,28987538
+Simulation,2013,109036269
+Simulation,2014,37299036
+Simulation,2015,91869887
+Simulation,2016,36005497
+Simulation,2017,24432495
+Simulation,2018,2203
+Simulation,No data,153545358
+Singleplayer,2000,15467
+Singleplayer,2006,41815
+Singleplayer,2011,219210
+Singleplayer,2012,167402
+Singleplayer,2015,6231
+Singleplayer,2016,195
+Singleplayer,No data,113519441
+Sniper,No data,451
+Soccer,2015,2089
+Software,No data,120838
+SoftwareTraining,2008,2058
+SoftwareTraining,2010,0
+SoftwareTraining,2013,98765
+SoftwareTraining,2014,412697
+SoftwareTraining,2015,36605
+SoftwareTraining,2016,481
+SoftwareTraining,2017,9382
+SoftwareTraining,No data,177580
+Soundtrack,2016,326
+Space,No data,5706269
+SpaceSim,No data,5376427
+SplitScreen,No data,36002
+Sports,1995,31004
+Sports,2005,69758
+Sports,2006,11182
+Sports,2007,1308
+Sports,2008,97528
+Sports,2009,249680
+Sports,2010,2376640
+Sports,2011,924685
+Sports,2012,3514560
+Sports,2013,6192179
+Sports,2014,5427205
+Sports,2015,41297946
+Sports,2016,4693674
+Sports,2017,22871
+Sports,No data,3742034
+StarWars,No data,1576
+Stealth,2006,41815
+Stealth,No data,99210487
+SteamMachine,2015,0
+Steampunk,No data,13
+StoryRich,2006,41815
+StoryRich,2011,172945
+StoryRich,2015,2
+StoryRich,2016,195
+StoryRich,No data,876590
+Strategy,1988,13962
+Strategy,1990,60
+Strategy,1991,0
+Strategy,1993,182863
+Strategy,1994,1169
+Strategy,1995,55227
+Strategy,1996,8468
+Strategy,1997,133571
+Strategy,1998,26109
+Strategy,1999,574941
+Strategy,2000,46519
+Strategy,2001,941295
+Strategy,2002,485452
+Strategy,2003,7333055
+Strategy,2004,3686382
+Strategy,2005,1011928
+Strategy,2006,17226204
+Strategy,2007,3157655
+Strategy,2008,8111475
+Strategy,2009,31776974
+Strategy,2010,140951442
+Strategy,2011,34513058
+Strategy,2012,85583781
+Strategy,2013,145266750
+Strategy,2014,50329171
+Strategy,2015,82160961
+Strategy,2016,31321955
+Strategy,2017,5863943
+Strategy,No data,149552650
+Stylized,No data,824
+Supernatural,No data,937
+Surreal,2000,15467
+Surreal,No data,69573
+Survival,2006,41815
+Survival,No data,3050762
+SurvivalHorror,2006,41815
+SurvivalHorror,2015,2728
+SurvivalHorror,No data,98249
+Tactical,No data,98408179
+Tanks,No data,43294336
+Team-Based,No data,141583140
+Third-PersonShooter,No data,792472
+ThirdPerson,2000,15467
+ThirdPerson,2011,172945
+ThirdPerson,No data,1745829
+Thriller,2000,0
+Thriller,2012,114
+Thriller,2013,0
+Thriller,2014,90
+Thriller,2015,265
+Thriller,No data,19664
+TimeAttack,2012,57473
+TimeAttack,No data,16715
+TimeManipulation,No data,721
+TimeTravel,2012,57473
+TimeTravel,2015,23930
+TimeTravel,2016,0
+TimeTravel,No data,721
+Top-Down,No data,2281
+Top-DownShooter,No data,2281
+TowerDefense,No data,1427
+TrackIR,No data,52167527
+Trading,No data,5212223
+Turn-Based,No data,12576
+Turn-BasedStrategy,No data,4572
+Turn-BasedTactics,No data,8004
+Tutorial,2015,398
+Tutorial,2016,11
+TwinStickShooter,2016,3176
+TwinStickShooter,No data,3923
+Underwater,No data,1966922
+Utilities,2006,382929
+Utilities,2007,11058
+Utilities,2008,2058
+Utilities,2012,10338
+Utilities,2013,651457
+Utilities,2014,2711695
+Utilities,2015,578466
+Utilities,2016,116300
+Utilities,2017,9403
+Utilities,No data,427915
+VR,No data,14687819
+VideoProduction,2006,173
+VideoProduction,2007,11058
+VideoProduction,2012,4010
+VideoProduction,2013,224132
+VideoProduction,2014,484437
+VideoProduction,2015,1662650
+VideoProduction,2016,1380
+VideoProduction,No data,59631
+Violent,2015,1497
+Violent,No data,14
+VisualNovel,No data,367
+Voxel,No data,1957533
+WalkingSimulator,2015,2
+WalkingSimulator,No data,146270
+War,No data,43296316
+Wargame,No data,4572
+WebPublishing,2005,93844
+WebPublishing,2007,11058
+WebPublishing,2012,1930339
+WebPublishing,2013,333678
+WebPublishing,2014,33641
+WebPublishing,2015,348673
+WebPublishing,2016,136
+WebPublishing,2017,9382
+WebPublishing,No data,0
+Werewolves,No data,3128
+WorldWarI,2016,0
+WorldWarII,No data,43035305
+Zombies,2015,2728
+Zombies,No data,78741
+e-sports,2014,448600
+e-sports,No data,0
