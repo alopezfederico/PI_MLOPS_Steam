@@ -1,7 +1,7 @@
 from fastapi import FastAPI
 import pandas as pd
 import numpy as np
-
+import ML as ml
 
 # Carga de datos
 df_playtime_genre = pd.read_csv('FeatureEngData/df_playtime_genre.csv',low_memory=False)
@@ -118,3 +118,7 @@ def sentiment_analysis( year : int ):
 
 
 
+@app.get('/recomendacion_juego/{id}')
+
+def similar_id_recomendations(item_id: int):
+    return ml.recomendacion_juego(item_id)

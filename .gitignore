@@ -1,0 +1,9 @@
+H_venv/
+Initial_Data/australian_user_reviews.json
+Initial_Data/australian_users_items.json
+Initial_Data/output_steam_games.json
+FinalData/data_items_t.csv
+FinalData/data_reviews_t.csv
+FinalData/data_steam_t.csv
+requirements.txt
+
